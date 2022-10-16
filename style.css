@@ -201,11 +201,10 @@ a:visited {
   background-color: var(--color-dark--1);
   color: var(--color-light--2);
   border-radius: 5px;
-  padding-right: 0.6rem;
 }
 
 .leaflet-popup .leaflet-popup-content {
-  font-size: 1.5rem;
+  font-size: 1.1rem;
 }
 
 .leaflet-popup .leaflet-popup-tip {
@@ -219,6 +218,7 @@ a:visited {
   border-left: 5px solid var(--color-brand--1);
 }
 
+/* Clear */
 
 .sidebar {
   position: relative;
@@ -233,6 +233,4 @@ a:visited {
   width: 5%;
 
   padding: 1rem 0;
-
-  
 }
